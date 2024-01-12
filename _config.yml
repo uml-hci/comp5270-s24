@@ -6,3 +6,11 @@ url: https://uml-hci.github.io/comp5720-s24
 
 #aux_links: # remove if you don't want this link to appear on your pages
  # Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
+
+# Aux links for the upper right navigation
+aux_links:
+  "COMP5720 on Blackboard":
+    - "https://uml.umassonline.net/ultra/courses/_46744_1/cl/outline"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
