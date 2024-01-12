@@ -7,4 +7,4 @@ nav_order: 6
 
 This course is based on courses prepared by Michelle Ichinco and Jill Drury. Syllabus language and course content is also modified from syllabi prepared by Geoff Kaufman, Raelin Musuraca, and Motahhare Eslami.
 
-<Qian>
+<!--Todo: longer list of credits-->

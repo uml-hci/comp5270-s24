@@ -5,11 +5,10 @@ nav_order: 1
 ---
 # Syllabus
 
-COMP 5720 - 201 (#12535) Special Topics\
-Human-Computer Interaction\
-Tuesdays & Thursdays 2:00pm - 3:15pm, Falmouth Hall 209\
+COMP 5720 - 201 (#12535) Special Topics: Human-Computer Interaction\
+Tuesdays & Thursdays 2:00pm - 3:15pm, Falmouth Hall 209
 
-**While this note is still here, this syllabus is still being ACTIVELY edited and may change in major ways. Links will be updated soon.**
+**While this note is still here, this syllabus is still being ACTIVELY edited and may change in major ways.**
 
 Course details and policies are always subject to change. Revisions will be announced in class with sufficient time for students to account for them.
 
@@ -17,7 +16,8 @@ Course details and policies are always subject to change. Revisions will be anno
 
 Prof. Samantha Reig (she/her)\
 Email: Sam_Reig@uml.edu\
-Office: Dandeneau 301\
+Office: Dandeneau 301
+
 Office hours: \
 Tuesdays 11:00am - 12:30pm \
 Thursdays 3:30pm - 5pm \
@@ -35,45 +35,46 @@ The purpose of this class is to ground students in the basics of how humans inte
 
 Upon successful completion of this course, students will demonstrate the ability to:
 
-1) Apply user-centered design processes in the ideation and implementation of novel systems
-2) Critically evaluate the quality of user information based on collection methodology.
-3) Develop and refine designs for new software systems that consider usability concerns from the outset.
-4) Compare the strengths and weaknesses of different HCI techniques for a given design problem.
-5) Discuss open challenges in the field of human-computer interaction, including ethical, social, and policy implications of new designs.
+1. Apply user-centered design processes in the ideation and implementation of novel systems
+2. Critically evaluate the quality of user information based on collection methodology.
+3. Develop and refine designs for new software systems that consider usability concerns from the outset.
+4. Compare the strengths and weaknesses of different HCI techniques for a given design problem.
+5. Discuss open challenges in the field of human-computer interaction, including ethical, social, and policy implications of new designs.
 
 ## Diversity and inclusion statement
 
 The people in this class and in our UMass Lowell community come from diverse identities and backgrounds. Diversity includes a variety of dimensions, such as race, gender identity, ethnicity, sexual orientation, faith and non-faith perspectives, and many others. In this class, we will study ways in which system design can both support and exclude users along these dimensions. We must also be cognizant and respectful of identity—including dimensions not explicitly mentioned in this statement—when we design course materials, deliver course content, and interact with each other. It is my goal to make this class as accessible, approachable, and useful for all students as it can possibly be. If you have suggestions about how to better align the course with the values of diversity and inclusion, I encourage you to share them with me. If you’d rather do that anonymously, you can use this form: 
-[FORM LINK TO APPEAR HERE] 
+
+[COMP5720 - Spring 2024 Feedback Form](https://forms.gle/3z9kqq9VtTnpXaG37)
 
 The [Office of Multicultural Affairs (OMA)](https://www.uml.edu/student-services/multicultural/) supports and advocates for students while leading diversity-related programming and working to create an inclusive environment for LGBTQ+ individuals via the LGBTQ+ Resource Center. Contact (978) 934-4336 or Multicultural_Affairs@uml.edu 
 
 ## Tutoring resources and Centers for Learning and Academic Support Services (CLASS)
 
-CLASS will be offering [tutoring]() and [Writing Center]() services both in-person and virtually. I strongly urge you to take advantage of this opportunity to reinforce your learning.
+CLASS will be offering [tutoring](https://www.uml.edu/CLASS/Tutoring/) and [Writing Center](https://www.uml.edu/Writing-Center/) services both in-person and virtually. I strongly urge you to take advantage of this opportunity to reinforce your learning.
  
 ## Mental health and well-being
 
 We are a campus that cares about your wellbeing and success.  Your personal health and well-being are of utmost importance to faculty and campus administrators. I’m available to talk about your stresses or concerns related to your coursework in my class. 
  
 Here are some resources to support your well-being:
-- [Counseling Services]() provide crisis intervention, assessment, referrals, short term individual counseling and group therapy. Call to book an appointment at (978) 934-6800.
-- [UMatter2]() is a university-wide initiative to support students and promote mental health. They can be reached at (978) 934-6671. You will find information at that website on how to access Togetherall, an online community which is a peer-to-peer platform dedicated to mental health support.  
-- [Centers for Learning and Academic Support Services (CLASS)]() provides advising services including goal setting, course selection, SIS functions, changing majors/minors and course deletions. (978) 934-2936 or Advisement@uml.edu.  
-- The mission of the [Office of Student Life & Wellbeing]() is to advance the holistic concept for student success by infusing health-promoting actions and collaboration into campus culture. They can be reached at 978-934-4342 or Wellbeing@uml.edu.
+- [Counseling Services](https://www.uml.edu/student-services/counseling/) provide crisis intervention, assessment, referrals, short term individual counseling and group therapy. Call to book an appointment at (978) 934-6800.
+- [UMatter2](https://www.uml.edu/class/) is a university-wide initiative to support students and promote mental health. They can be reached at (978) 934-6671. You will find information at that website on how to access Togetherall, an online community which is a peer-to-peer platform dedicated to mental health support.  
+- [Centers for Learning and Academic Support Services (CLASS)](https://www.uml.edu/class/) provides advising services including goal setting, course selection, SIS functions, changing majors/minors and course deletions. (978) 934-2936 or Advisement@uml.edu.  
+- The mission of the [Office of Student Life & Wellbeing](https://www.uml.edu/wellbeing/) is to advance the holistic concept for student success by infusing health-promoting actions and collaboration into campus culture. They can be reached at 978-934-4342 or Wellbeing@uml.edu.
  
 ## Accommodations
 
-If you are registered with Disability Services and will require course accommodations, please notify me via the [Accommodate semester request process]() as soon as possible so that we might make appropriate arrangements. It is important that we connect to discuss the logistics of your accommodations; please speak to me during office hours or privately after class as I respect and want to protect your privacy. If you need further information or need to register for academic accommodations, please visit the [Disability Services Website](). 
+If you are registered with Disability Services and will require course accommodations, please notify me via the [Accommodate semester request process](https://www.uml.edu/student-services/disability/students/semester-request.aspx) as soon as possible so that we might make appropriate arrangements. It is important that we connect to discuss the logistics of your accommodations; please speak to me during office hours or privately after class as I respect and want to protect your privacy. If you need further information or need to register for academic accommodations, please visit the [Disability Services Website](https://www.uml.edu/student-services/Disability/). 
 
-Additionally, Student Disability Services supports software for ALL students (not just those registered with their office). The university has literacy software that allows you to read on-screen text aloud, research and check written work, and create study guides. You can download the software from the IT Software webpage on the [UML assistive technologies website]().
+Additionally, Student Disability Services supports software for ALL students (not just those registered with their office). The university has literacy software that allows you to read on-screen text aloud, research and check written work, and create study guides. You can download the software from the IT Software webpage on the [UML assistive technologies website](https://www.uml.edu/student-services/disability/assistive-technology/at-default.aspx).
  
 ## Textbooks/course materials
 
 There are no required textbooks for this course. The following books are recommended: 
-- [__The Design of Everyday Things__]() by Don Norman
-- [__The Encyclopedia of Human-Computer Interaction 2nd Edition__]() by the Interaction Design Foundation
-- [__Universal Methods of Design__]() by Bella Martin and Bruce Hanington
+- [__The Design of Everyday Things__](https://uml-on-worldcat-org.umasslowell.idm.oclc.org/oclc/50752610) by Don Norman
+- [__The Encyclopedia of Human-Computer Interaction 2nd Edition__](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed) by the Interaction Design Foundation
+- [__Universal Methods of Design__](https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561) by Bella Martin and Bruce Hanington
 
 ## Assessments
 
@@ -138,7 +139,7 @@ By default, all members of a group will receive the same grade on the group assi
 
 ### Academic integrity
 
-All students are advised that there is a [University policy regarding academic integrity](). Students are responsible for the honest completion and representation of their work. All work submitted must be your own. Submitting work that you did not produce and claiming that it is your own is plagiarism and is subject to disciplinary action according to UML’s policy. 
+All students are advised that there is a [University policy regarding academic integrity](https://www.uml.edu/catalog/undergraduate/policies/academic-policies/academic-integrity.aspx). Students are responsible for the honest completion and representation of their work. All work submitted must be your own. Submitting work that you did not produce and claiming that it is your own is plagiarism and is subject to disciplinary action according to UML’s policy. 
 
 ### Generative AI
 
