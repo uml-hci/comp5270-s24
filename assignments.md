@@ -4,6 +4,6 @@ layout: default
 nav_order: 4
 has_children: true
 ---
-# Assignment 3
+# Assignments
 
-Check back soon!
+All assignments are due at 11:59pm Eastern Time on the day of the deadline unless otherwise specified.

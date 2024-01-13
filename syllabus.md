@@ -113,7 +113,7 @@ Once the final project kicks off, please tell your teammates if you’ll be abse
 
 ### Homework assignments
 
-There will be a handful of individual homework assignments throughout the semester. These assignments will allow you to practice core user-centered research skills such as wireframing, heuristic evaluation, and UI critiques prior to starting the group project. There will be an individual reflection homework assignment toward the end of the course.
+There will be a handful of individual homework assignments throughout the semester. These assignments will allow you to practice core user-centered research skills such as wireframing, heuristic evaluation, and UI critiques prior to starting the group project. There will be an individual reflection homework assignment toward the end of the course. There will be a student survey at the beginning of the course, which will be graded for completion as part of the overall assignment grade.
 
 ### Midterm
 
@@ -135,7 +135,7 @@ The project will be evaluated primarily based upon (1) the degree to which the i
 | Teammate assessment  | 5      |
 | **Total**            | **50** |
 
-By default, all members of a group will receive the same grade on the interim deliverables, final report, and final presentation portions of the project (worth 35 points all together). The teammate survey will be graded individually and used in determining how many of the remaining 5 points each person will receive. I reserve the right to further adjust individual project grades in extreme cases, i.e., if there is a consensus among teammates that a group member went truly above and beyond or that someone really did not pull their weight. More details about the project will be available shortly after the start of the semester.
+By default, all members of a group will receive the same grade on the interim deliverables, final report, and final presentation portions of the project (worth 45 points all together). The teammate survey will be graded individually and used in determining how many of the remaining 5 points each person will receive. I reserve the right to further adjust individual project grades in extreme cases, i.e., if there is a consensus among teammates that a group member went truly above and beyond or that someone really did not pull their weight. More details about the project will be available shortly after the start of the semester.
 
 ## Course policies
 
