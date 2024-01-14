@@ -6,6 +6,8 @@ parent: Project
 ---
 # Deliverable 1 
 
-[Submission link](){: .btn .btn-blue }
-
 Check back soon!
+
+Important dates (_tentative_):
+- Assigned: Tuesday, February 29th
+- Due: Thursday, March 19th

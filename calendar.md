@@ -111,7 +111,7 @@ _End of modules_
 |  Date  |    Topics     | In-class activity |          Assigned           |
 | :----: | :-----------: | :---------------: | :-------------------------: |
 | T 4/16 | Final project |   Work session    |                             |
-| R 4/18 | Final project |   Work session    | [Assignment 3](/indA3.html) |
+| R 4/18 | Final project |   Work session    | [Assignment 4](/indA4.html) |
 
 ### Week 14
 

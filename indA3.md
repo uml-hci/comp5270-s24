@@ -7,3 +7,7 @@ parent: Assignments
 # Assignment 3
 
 Check back soon!
+
+Important dates (_tentative_):
+- Assigned: Tuesday, February 20th
+- Due: Thursday, 29th
