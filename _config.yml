@@ -1,15 +1,15 @@
-title: COMP 5720 - HCI
+title: COMP 5270 - HCI
 description: A website for the Human-Computer Interaction class at UMass Lowell.
 theme: just-the-docs
 
-url: https://uml-hci.github.io/comp5720-s24
+url: https://uml-hci.github.io/comp5270-s24
 
 #aux_links: # remove if you don't want this link to appear on your pages
  # Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
 
 # Aux links for the upper right navigation
 aux_links:
-  "COMP5720 on Blackboard":
+  "COMP5270 on Blackboard":
     - "https://uml.umassonline.net/ultra/courses/_46744_1/cl/outline"
 
 # Makes Aux links open in a new tab. Default is false

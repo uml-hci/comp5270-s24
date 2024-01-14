@@ -6,7 +6,7 @@ nav_order: 1
 
 # Syllabus
 
-COMP 5720 - 201 (#12535) Special Topics: Human-Computer Interaction\
+COMP 5270 - 201 (#12535) Special Topics: Human-Computer Interaction\
 Tuesdays & Thursdays 2:00pm - 3:15pm, Falmouth Hall 209
 
 **While this note is still here, this syllabus is still being ACTIVELY edited and may change in major ways.**
@@ -46,7 +46,7 @@ Upon successful completion of this course, students will demonstrate the ability
 
 The people in this class and in our UMass Lowell community come from diverse identities and backgrounds. Diversity includes a variety of dimensions, such as race, gender identity, ethnicity, sexual orientation, faith and non-faith perspectives, and many others. In this class, we will study ways in which system design can both support and exclude users along these dimensions. We must also be cognizant and respectful of identity—including dimensions not explicitly mentioned in this statement—when we design course materials, deliver course content, and interact with each other. It is my goal to make this class as accessible, approachable, and useful for all students as it can possibly be. If you have suggestions about how to better align the course with the values of diversity and inclusion, I encourage you to share them with me. If you’d rather do that anonymously, you can use this form:
 
-[COMP5720 - Spring 2024 Feedback Form](https://forms.gle/3z9kqq9VtTnpXaG37)
+[COMP5270 - Spring 2024 Feedback Form](https://forms.gle/3z9kqq9VtTnpXaG37)
 
 The [Office of Multicultural Affairs (OMA)](https://www.uml.edu/student-services/multicultural/) supports and advocates for students while leading diversity-related programming and working to create an inclusive environment for LGBTQ+ individuals via the LGBTQ+ Resource Center. Contact (978) 934-4336 or Multicultural_Affairs@uml.edu
 
@@ -135,7 +135,7 @@ The project will be evaluated primarily based upon (1) the degree to which the i
 | Teammate assessment  | 5      |
 | **Total**            | **50** |
 
-By default, all members of a group will receive the same grade on the interim deliverables, final report, and final presentation portions of the project (worth 45 points all together). The teammate survey will be graded individually and used in determining how many of the remaining 5 points each person will receive. I reserve the right to further adjust individual project grades in extreme cases, i.e., if there is a consensus among teammates that a group member went truly above and beyond or that someone really did not pull their weight. More details about the project will be available shortly after the start of the semester.
+By default, all members of a group will receive the same grade on the interim deliverables, final report, and final presentation portions of the project (worth 45 points, or 90% of the project grade, all together). The teammate survey will be graded individually and used in determining how many of the remaining 5 points (10% of the project grade) each person will receive. I reserve the right to further adjust individual project grades in extreme cases, i.e., if there is a consensus among teammates that a group member went truly above and beyond or that someone really did not pull their weight. More details about the project will be available shortly after the start of the semester.
 
 ## Course policies
 
