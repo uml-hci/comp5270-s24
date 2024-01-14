@@ -13,16 +13,22 @@ Tuesdays & Thursdays 2:00pm - 3:15pm, Falmouth Hall 209
 
 Course details and policies are always subject to change. Revisions will be announced in class with sufficient time for students to account for them.
 
-## Instructor
+## Instructors
 
-Prof. Samantha Reig (she/her)\
-Email: Sam_Reig@uml.edu\
-Office: Dandeneau 301
+### Instructor
 
-Office hours: \
+**Prof. Samantha Reig (she/her)**\
+**Email**: sam_reig@uml.edu\
+**Office**: Dandeneau 301\
+**Office hours**: \
 Tuesdays 11:00am - 12:30pm \
-Thursdays 3:30pm - 5pm \
-Other times by appointment
+Thursdays 3:30pm - 5pm 
+
+### TA
+
+**Sharmin Sultana**\
+**Email**: sharmin_sultana@uml.edu\
+**Office hours**: TBA
 
 ## Welcome!
 
@@ -41,6 +47,11 @@ Upon successful completion of this course, students will demonstrate the ability
 3. Develop and refine designs for new software systems that consider usability concerns from the outset.
 4. Compare the strengths and weaknesses of different HCI techniques for a given design problem.
 5. Discuss open challenges in the field of human-computer interaction, including ethical, social, and policy implications of new designs.
+
+
+## Prerequisites
+
+There are no prerequisites for this course. Students are expected to have proficiency with computers. Programming and graphic design skills may be helpful, but are not required.
 
 ## Diversity and inclusion statement
 

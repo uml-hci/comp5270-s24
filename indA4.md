@@ -9,5 +9,5 @@ parent: Assignments
 Check back soon!
 
 Important dates (_tentative_):
-- Assigned: Thursday, April 18th
+- Assigned: Thursday, April 16th
 - Due: Friday, April 26th

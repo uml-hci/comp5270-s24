@@ -12,10 +12,10 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 ### Week 1
 
-|  Date  |                     Topics                     |   In-class activity    |                                     Assigned                                      |
-| :----: | :--------------------------------------------: | :--------------------: | :-------------------------------------------------------------------------------: |
-| T 1/16 | Introduction to the class, introduction to HCI |     Introductions      | Read: Design of Everyday Things (Ch. 1-2) <br><br> [Student survey](/survey.html) |
-| R 1/18 |   HCI theory and _Design of Everyday Things_   | Hall of fame and shame |                                                                                   |
+|  Date  |                         Topics                          |   In-class activity    |                                     Assigned                                      |
+| :----: | :-----------------------------------------------------: | :--------------------: | :-------------------------------------------------------------------------------: |
+| T 1/16 |     Introduction to the class, introduction to HCI      |     Introductions      | Read: Design of Everyday Things (Ch. 1-2) <br><br> [Student survey](/survey.html) |
+| R 1/18 | HCI process and theory,<br> _Design of Everyday Things_ | Hall of fame and shame |                                                                                   |
 
 ## Module 2: Characterizing what is
 
@@ -28,10 +28,10 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 ### Week 3
 
-|  Date  |              Topics              |     In-class activity      | Assigned |
-| :----: | :------------------------------: | :------------------------: | :------: |
-| T 1/30 |             Surveys              | Designing survey questions |          |
-| R 2/1  | User interviews and focus groups |                            |          |
+|  Date  |              Topics              |     In-class activity      |          Assigned           |
+| :----: | :------------------------------: | :------------------------: | :-------------------------: |
+| T 1/30 |             Surveys              | Designing survey questions |                             |
+| R 2/1  | User interviews and focus groups |                            | [Assignment 1](/indA1.html) |
 
 ## Module 3: Modeling what could be
 
@@ -44,17 +44,17 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 ### Week 5
 
-|  Date  |    Topics     |  In-class activity   | Assigned |
-| :----: | :-----------: | :------------------: | :------: |
-| T 2/13 |  Task design  |   Designing tasks    |          |
-| R 2/15 | Storyboarding | Creating storyboards |          |
+|  Date  |    Topics     |  In-class activity   |          Assigned           |
+| :----: | :-----------: | :------------------: | :-------------------------: |
+| T 2/13 |  Task design  |   Designing tasks    | [Assignment 2](/indA2.html) |
+| R 2/15 | Storyboarding | Creating storyboards |                             |
 
 ### Week 6
 
-|  Date  | Topics |  In-class activity  | Assigned |
-| :----: | :----: | :-----------------: | :------: |
-| T 2/20 |  TBD   | _(Prof. Reig away)_ |          |
-| R 2/22 |  TBD   | _(Prof. Reig away)_ |          |
+|  Date  | Topics |  In-class activity  |          Assigned           |
+| :----: | :----: | :-----------------: | :-------------------------: |
+| T 2/20 |  TBD   | _(Prof. Reig away)_ | [Assignment 3](/indA3.html) |
+| R 2/22 |  TBD   | _(Prof. Reig away)_ |                             |
 
 ## Module 3: Realizing what could be
 
@@ -110,8 +110,8 @@ _End of modules_
 
 |  Date  |    Topics     | In-class activity |          Assigned           |
 | :----: | :-----------: | :---------------: | :-------------------------: |
-| T 4/16 | Final project |   Work session    |                             |
-| R 4/18 | Final project |   Work session    | [Assignment 4](/indA4.html) |
+| T 4/16 | Final project |   Work session    | [Assignment 4](/indA4.html) |
+| R 4/18 | Final project |   Work session    |                             |
 
 ### Week 14
 
