@@ -9,7 +9,7 @@ nav_order: 1
 COMP 5270 - 201 (#12535) Special Topics: Human-Computer Interaction\
 Tuesdays & Thursdays 2:00pm - 3:15pm, Falmouth Hall 209
 
-**While this note is still here, this syllabus is still being ACTIVELY edited and may change in major ways.**
+<!--**While this note is still here, this syllabus is still being ACTIVELY edited and may change in major ways.**-->
 
 Course details and policies are always subject to change. Revisions will be announced in class with sufficient time for students to account for them.
 
@@ -43,10 +43,10 @@ The purpose of this class is to ground students in the basics of how humans inte
 Upon successful completion of this course, students will demonstrate the ability to:
 
 1. Apply user-centered design processes in the ideation and implementation of novel systems
-2. Critically evaluate the quality of user information based on collection methodology.
-3. Develop and refine designs for new software systems that consider usability concerns from the outset.
-4. Compare the strengths and weaknesses of different HCI techniques for a given design problem.
-5. Discuss open challenges in the field of human-computer interaction, including ethical, social, and policy implications of new designs.
+<!--2. Critically evaluate the quality of user information based on collection methodology.-->
+2. Develop and refine designs for new software systems that consider usability concerns from the outset.
+3. Compare the strengths and weaknesses of different HCI techniques for a given design problem.
+4. Discuss open challenges in the field of human-computer interaction, including ethical, social, and policy implications of new designs.
 
 
 ## Prerequisites

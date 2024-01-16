@@ -6,7 +6,7 @@ nav_order: 2
 
 # Calendar
 
-A draft schedule for the course is here. This schedule is subject to change.
+A draft schedule for the course is here. This schedule is subject to change. 
 
 ## Module 1: Introduction
 
