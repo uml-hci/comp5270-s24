@@ -12,4 +12,4 @@ Here, you can find the syllabus, a living schedule, descriptions of all assigmen
 
 Assignment submission, grading, and announcements will be done through [Blackboard](https://uml.umassonline.net/ultra/courses/_46744_1/cl/outline).
 
-![image](/img/hci.png)
+![image](../../img/hci.png)
