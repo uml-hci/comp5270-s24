@@ -6,41 +6,41 @@ nav_order: 2
 
 # Calendar
 
-A draft schedule for the course is here. This schedule is subject to change. 
+A draft schedule for the course is here. This schedule is subject to change.
 
 ## Module 1: Introduction
 
 ### Week 1
 
-|  Date  |                         Topics                          |   In-class activity    |                                     Assigned                                      |
-| :----: | :-----------------------------------------------------: | :--------------------: | :-------------------------------------------------------------------------------: |
-| T 1/16 |     Introduction to the class, introduction to HCI      |     Introductions      | Read: Design of Everyday Things (Ch. 1-2) <br><br> [Student survey](/survey.html) |
-| R 1/18 | HCI process and theory,<br> _Design of Everyday Things_ | Hall of fame and shame |                                                                                   |
+|  Date  |                         Topics                          |   In-class activity    |                                     Assigned                                     |
+| :----: | :-----------------------------------------------------: | :--------------------: | :------------------------------------------------------------------------------: |
+| T 1/16 |     Introduction to the class, introduction to HCI      |     Introductions      | Read: Design of Everyday Things, Ch. 1-2 <br><br> [Student survey](/survey.html) |
+| R 1/18 | HCI process and theory,<br> _Design of Everyday Things_ | Hall of fame and shame |                                                                                  |
 
 ## Module 2: Characterizing what is
 
 ### Week 2
 
-|  Date  |               Topics                | In-class activity |          Assigned           |
-| :----: | :---------------------------------: | :---------------: | :-------------------------: |
-| T 1/23 | Ethics of doing research with users |                   | [Assignment 0](/indA0.html) |
-| R 1/25 |          Contexual inquiry          |                   |                             |
-
-### Week 3
-
-|  Date  |              Topics              |     In-class activity      |          Assigned           |
-| :----: | :------------------------------: | :------------------------: | :-------------------------: |
-| T 1/30 |             Surveys              | Designing survey questions |                             |
-| R 2/1  | User interviews and focus groups |                            | [Assignment 1](/indA1.html) |
+|  Date  |                                                 Topics                                                 |      In-class activity      |                                            Assigned                                             |
+| :----: | :----------------------------------------------------------------------------------------------------: | :-------------------------: | :---------------------------------------------------------------------------------------------: |
+| T 1/23 |         Ethics of doing research with users, introduction to needfinding, planning interviews          |    Practice interviewing    |                                   [Assignment 0](/indA0.html)                                   |
+| R 1/25 | Conducting interviews: strategies and best practices, contexual inquiry vs. semi-structured interviews | Practice contextual inquiry | Read: Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design, Ch. 3 |
 
 ## Module 3: Modeling what could be
 
+### Week 3
+
+|  Date  |                  Topics                   | In-class activity |          Assigned           |
+| :----: | :---------------------------------------: | :---------------: | :-------------------------: |
+| T 1/30 | Organizing and analyzing qualitative data |  Organizing data  | [Assignment 1](/indA1.html) |
+| R 2/1  |        Personas and user journeys         |                   |                             |
+
 ### Week 4
 
-| Date  |                  Topics                   | In-class activity | Assigned |
-| :---: | :---------------------------------------: | :---------------: | :------: |
-| T 2/6 | Organizing and analyzing qualitative data |  Organizing data  |          |
-| R 2/8 |        Personas and user journeys         |                   |          |
+| Date  | Topics | In-class activity | Assigned |
+| :---: | :----: | :---------------: | :------: |
+| T 2/6 |        |                   |          |
+| R 2/8 |        |                   |          |
 
 ### Week 5
 
