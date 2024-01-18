@@ -21,14 +21,16 @@ Course details and policies are always subject to change. Revisions will be anno
 **Email**: sam_reig@uml.edu\
 **Office**: Dandeneau 301\
 **Office hours**: \
-Tuesdays 11:00am - 12:30pm \
-Thursdays 3:30pm - 5pm 
+Tuesdays 11:00am - 12:30pm, Dandeneau 301 \
+Thursdays 3:30pm - 5pm, Dandeneau 301 \
+Zoom: by appointment
 
 ### TA
 
 **Sharmin Sultana**\
 **Email**: sharmin_sultana@uml.edu\
-**Office hours**: TBA
+**Office hours**: \
+Tuesdays 12:00pm - 1:00pm, Dandeneau 303 and Zoom (link on Blackboard)
 
 ## Welcome!
 

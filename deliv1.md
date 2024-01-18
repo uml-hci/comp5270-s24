@@ -9,5 +9,5 @@ parent: Project
 Check back soon!
 
 Important dates (_tentative_):
-- Assigned: Tuesday, February 29th
+- Assigned: Thursday, February 29th
 - Due: Thursday, March 19th

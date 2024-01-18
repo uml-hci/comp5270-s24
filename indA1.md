@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 parent: Assignments
 ---
-# Assignment 1
+# Assignment 1: Observation & Contextual Inquiry
 
 Check back soon!
 
