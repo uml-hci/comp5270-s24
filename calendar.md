@@ -25,7 +25,7 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 |  Date  |                                    Topics                                     |        In-class activity         |                                            Assigned                                             |
 | :----: | :---------------------------------------------------------------------------: | :------------------------------: | :---------------------------------------------------------------------------------------------: |
-| T 1/23 | Ethics of doing research with users, introduction to needfinding, observation | Hall of Fame and Shame share out |          [Assignment 0: Syllabus Quiz & Human Subjects Research Training]({{site.url}}/indA0.md)          |
+| T 1/23 | Ethics of doing research with users, introduction to needfinding, observation | Hall of Fame and Shame share out |          [Assignment 0: Syllabus Quiz & Human Subjects Research Training]({{site.url}}/indA0.html)          |
 | R 1/25 |              Interviews: planning, strategies and best practices              | Developing an interview protocol | Read: Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design, Ch. 3 |
 
 ## Module 3: Modeling what could be
