@@ -16,7 +16,7 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 |  Date  |                     Topics                     |   In-class activity    |                                     Assigned                                     |
 | :----: | :--------------------------------------------: | :--------------------: | :------------------------------------------------------------------------------: |
-| T 1/16 | Introduction to the class, introduction to HCI |     Introductions      | Read: Design of Everyday Things, Ch. 1-2 <br><br> [Student survey](/survey.html) |
+| T 1/16 | Introduction to the class, introduction to HCI |     Introductions      | Read: Design of Everyday Things, Ch. 1-2 <br><br> [Student survey]({{site.baseurl}}/survey.html) |
 | R 1/18 |    HCI and _The Design of Everyday Things_     | Hall of Fame and Shame |                                                                                  |
 
 ## Module 2: Characterizing what is
@@ -25,7 +25,7 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 |  Date  |                                    Topics                                     |        In-class activity         |                                            Assigned                                             |
 | :----: | :---------------------------------------------------------------------------: | :------------------------------: | :---------------------------------------------------------------------------------------------: |
-| T 1/23 | Ethics of doing research with users, introduction to needfinding, observation | Hall of Fame and Shame share out |          [Assignment 0: Syllabus Quiz & Human Subjects Research Training](/indA0.html)          |
+| T 1/23 | Ethics of doing research with users, introduction to needfinding, observation | Hall of Fame and Shame share out |          [Assignment 0: Syllabus Quiz & Human Subjects Research Training]({{site.url}}/indA0.md)          |
 | R 1/25 |              Interviews: planning, strategies and best practices              | Developing an interview protocol | Read: Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design, Ch. 3 |
 
 ## Module 3: Modeling what could be
@@ -34,7 +34,7 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 |  Date  |                                Topics                                |          In-class activity          |                           Assigned                            |
 | :----: | :------------------------------------------------------------------: | :---------------------------------: | :-----------------------------------------------------------: |
-| T 1/30 | Interviews continued: contextual inquiry, semi-structured interviews | Practice semi-structured interviews | [Assignment 1: Observation & Contextual Inquiry](/indA1.html) |
+| T 1/30 | Interviews continued: contextual inquiry, semi-structured interviews | Practice semi-structured interviews | [Assignment 1: Observation & Contextual Inquiry]({{site.baseurl}}/indA1.md) |
 | R 2/1  |                       Task design, Think Aloud                       |       Blackboard Think Aloud        |                                                               |
 
 ### Week 4
@@ -48,7 +48,7 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 |  Date  |                  Topics                  |  In-class activity   |                          Assigned                           |
 | :----: | :--------------------------------------: | :------------------: | :---------------------------------------------------------: |
-| T 2/13 |              Storyboarding               | Creating storyboards | [Assignment 2: Storyboards & Lo-Fi Prototypes]({{site.baseurl}}/indA2.html) |
+| T 2/13 |              Storyboarding               | Creating storyboards | [Assignment 2: Storyboards & Lo-Fi Prototypes]({{site.baseurl}}/indA2.md) |
 | R 2/15 | Lo-fi prototyping, Think Aloud revisited | Think-Aloud critique |                                                             |
 
 ### Week 6
@@ -64,8 +64,8 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 |  Date  |                                  Topics                                   | In-class activity |                            Assigned                            |
 | :----: | :-----------------------------------------------------------------------: | :---------------: | :------------------------------------------------------------: |
-| T 2/27 |                         TBD, project introduction                         |                   |           [Group project description](/project.html)           |
-| R 2/29 | Neefinding revisited: Stakeholder maps, empathy maps <br> Project kickoff |  Team formation   | [Group deliverable 1: Proposal, Stakeholder Map](/deliv1.html) |
+| T 2/27 |                         TBD, project introduction                         |                   |           [Group project description]({{site.baseurl}}/project.md)           |
+| R 2/29 | Neefinding revisited: Stakeholder maps, empathy maps <br> Project kickoff |  Team formation   | [Group deliverable 1: Proposal, Stakeholder Map]({{site.baseurl}}/deliv1.md) |
 
 _Spring break: no classes 3/5 and 3/7_
 
@@ -80,7 +80,7 @@ _Spring break: no classes 3/5 and 3/7_
 
 |  Date  |              Topics              | In-class activity |                              Assigned                              |
 | :----: | :------------------------------: | :---------------: | :----------------------------------------------------------------: |
-| T 3/19 | Hi-fi prototyping, visual design |                   | [Group deliverable 2: Lo-Fi Prototype & Think Aloud](/deliv2.html) |
+| T 3/19 | Hi-fi prototyping, visual design |                   | [Group deliverable 2: Lo-Fi Prototype & Think Aloud]({{site.baseurl}}/deliv2.md) |
 | R 3/21 |               TBD                |        TBD        |                                                                    |
 
 ## Module 4: Evaluation
@@ -96,7 +96,7 @@ _Spring break: no classes 3/5 and 3/7_
 
 | Date  |    Topics     | In-class activity |                         Assigned                          |
 | :---: | :-----------: | :---------------: | :-------------------------------------------------------: |
-| T 4/2 | User modeling |                   | [Group deliverable 3: Heuristic evaluation](/deliv3.html) |
+| T 4/2 | User modeling |                   | [Group deliverable 3: Heuristic evaluation]({{site.baseurl}}/deliv3.md) |
 | R 4/4 |      TBD      |                   |                                                           |
 
 _End of modules_
@@ -112,7 +112,7 @@ _End of modules_
 
 |  Date  |    Topics     | In-class activity |                Assigned                 |
 | :----: | :-----------: | :---------------: | :-------------------------------------: |
-| T 4/16 | Final project |   Work session    | [Assignment 4: Reflection](/indA4.html) |
+| T 4/16 | Final project |   Work session    | [Assignment 4: Reflection]({{site.baseurl}}/indA4.md) |
 | R 4/18 | Final project |   Work session    |                                         |
 
 ### Week 14
