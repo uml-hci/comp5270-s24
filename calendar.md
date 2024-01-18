@@ -48,7 +48,7 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 |  Date  |                  Topics                  |  In-class activity   |                          Assigned                           |
 | :----: | :--------------------------------------: | :------------------: | :---------------------------------------------------------: |
-| T 2/13 |              Storyboarding               | Creating storyboards | [Assignment 2: Storyboards & Lo-Fi Prototypes](/indA2.html) |
+| T 2/13 |              Storyboarding               | Creating storyboards | [Assignment 2: Storyboards & Lo-Fi Prototypes]({{site.baseurl}}/indA2.html) |
 | R 2/15 | Lo-fi prototyping, Think Aloud revisited | Think-Aloud critique |                                                             |
 
 ### Week 6
@@ -78,10 +78,10 @@ _Spring break: no classes 3/5 and 3/7_
 
 ### Week 9
 
-|  Date  |              Topics              |                         In-class activity                          | Assigned |
-| :----: | :------------------------------: | :----------------------------------------------------------------: | :------: |
-| T 3/19 | Hi-fi prototyping, visual design |  |       [Group deliverable 2: Lo-Fi Prototype & Think Aloud](/deliv2.html)   |
-| R 3/21 |               TBD                |                                TBD                                 |          |
+|  Date  |              Topics              | In-class activity |                              Assigned                              |
+| :----: | :------------------------------: | :---------------: | :----------------------------------------------------------------: |
+| T 3/19 | Hi-fi prototyping, visual design |                   | [Group deliverable 2: Lo-Fi Prototype & Think Aloud](/deliv2.html) |
+| R 3/21 |               TBD                |        TBD        |                                                                    |
 
 ## Module 4: Evaluation
 
