@@ -55,7 +55,7 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 |  Date  | Topics |  In-class activity  |                    Assigned                    |
 | :----: | :----: | :-----------------: | :--------------------------------------------: |
-| T 2/20 |  TBD   | Review Assignment 2 |                                                |
+| T 2/20 |  ---   | Monday class schedule  |                                                |
 | R 2/22 |  TBD   | _(Prof. Reig away)_ | [Assignment 3: Usability Testing]({{site.url}}/indA3.html) |
 
 ## Module 3: Realizing what could be

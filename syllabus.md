@@ -6,7 +6,7 @@ nav_order: 1
 
 # Syllabus
 
-COMP 5270 - 201 (#12535) Special Topics: Human-Computer Interaction\
+COMP 5270 - 201 (#12535) Human-Computer Interaction\
 Tuesdays & Thursdays 2:00pm - 3:15pm, Falmouth Hall 209
 
 <!--**While this note is still here, this syllabus is still being ACTIVELY edited and may change in major ways.**-->
@@ -120,9 +120,11 @@ Letter grades will be assigned based on the number of points you earn (out of 10
 
 ### Participation
 
-Regular class attendance will be very much to your advantage. There will be material presented in class that is NOT included in the readings; you will only be able to obtain it by attending class. Also, there will be in-class exercises that will help you to understand and practice various techniques. Some of the midterm questions may be drawn from the in-class exercises. Finally, this class will incorporate a number of class discussions and chances to learn from fellow students. You will be expected to participate in discussions and exercises during class.
+Regular class attendance will be very much to your advantage. There will be material presented in class that is NOT included in the readings; you will only be able to obtain it by attending class. Also, there will be in-class exercises that will help you to understand and practice various techniques. Some of the midterm questions may be drawn from the in-class exercises. Finally, this class will incorporate a number of class discussions and chances to learn from fellow students. You will be expected to participate in discussions and exercises during class. 
 
 Once the final project kicks off, please tell your teammates if you’ll be absent from class so that they can prepare appropriately for work sessions and other activities that we/they might be planning to do during class time. If you are sick, please take care of yourself, and do not come to class. (We want our discussions to promote the exchange of ideas, not germs!)
+
+Opportunities to participate outside of the class meetings themselves -- e.g., sharing observations/links related to the class in Discord, attending lectures related to the class -- will likely arise throughout the semester, so keep an eye out for those. 
 
 ### Homework assignments
 

@@ -5,9 +5,20 @@ nav_order: 1
 parent: Assignments
 ---
 # Assignment 0: Syllabus quiz & Human Subjects Research Training
+**Due: Tuesday, January 30th**
 
-Check back soon!
+There are two parts to this assignment. 
 
-Important dates (_tentative_):
-- Assigned: Tuesday, January 23rd
-- Due: Tuesday, January 30th
+Part 1 is a syllabus quiz, which you will find on Blackboard. There's nothing else to submit for that part -- simply complete the quiz.
+
+Part 2 is human subjects research training. You will complete a program that is standard, legally required training for all researchers engaging with human participants, no matter the field. While the training isn't technically required for work done solely for a class, there are two reasons why you're being asked to complete the program as part of this course. First, the ethical principles and guidelines covered by the modules are a necessary foundation for human-computer interaction and user research. Second, if you wish to do HCI research (or even research in another field related to the social sciences) in the future, you'll have a head start on your training. 
+
+To complete the training, follow the instructions from UMass Lowell's Office of Research Integrity: 
+[https://www.uml.edu/research/integrity/training/citi.aspx](https://www.uml.edu/research/integrity/training/citi.aspx)
+
+Sign in with your UMass Lowell credentials and answer the questions according to the resource above to enroll in the course. When you're finished, you'll **upload your Completion Certificate to Blackboard**. Note: You do not need to upload the Completion Report -- just the Completion Certificate. 
+
+If you already have up-to-date CITI training from a past research experience or class, (you're in luck! and) please go into your account and download the existing Completion Certificate and submit it to Blackboard. If you have done CITI training before, but it has expired, you will be prompted by the system to complete a Refresher course. In this case, please do the Refresher course and upload that certificate.
+
+If you have any questions about CITI, please check in with your peers (in person or via Discord), and, if that doesn't answer your question, feel free to get in touch with me. 
+
