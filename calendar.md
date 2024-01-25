@@ -25,8 +25,8 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 |  Date  |                                    Topics                                     |        In-class activity         |                                            Assigned                                             |
 | :----: | :---------------------------------------------------------------------------: | :------------------------------: | :---------------------------------------------------------------------------------------------: |
-| T 1/23 | Ethics of doing research with users, introduction to needfinding, observation | Hall of Fame and Shame share out |          [Assignment 0: Syllabus Quiz & Human Subjects Research Training]({{site.url}}/indA0.html)          |
-| R 1/25 |              Interviews: planning, strategies and best practices              | Developing an interview protocol | Read: Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design, Ch. 3 |
+| T 1/23 | Ethics of doing research with users, introduction to needfinding methods | Hall of Fame and Shame share out |          [Assignment 0: Syllabus Quiz & Human Subjects Research Training]({{site.url}}/indA0.html)          |
+| R 1/25 |              Interviews: planning, strategies and best practices              | Developing an interview protocol, practicing interviews | Read: Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design, Ch. 3 |
 
 ## Module 3: Modeling what could be
 
@@ -34,7 +34,7 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 |  Date  |                                Topics                                |          In-class activity          |                           Assigned                            |
 | :----: | :------------------------------------------------------------------: | :---------------------------------: | :-----------------------------------------------------------: |
-| T 1/30 | Interviews continued: contextual inquiry, semi-structured interviews | Practice semi-structured interviews | [Assignment 1: Observation & Contextual Inquiry]({{site.url}}/indA1.html) |
+| T 1/30 | Interviews continued: contextual inquiry |  | [Assignment 1: Contextual Inquiry]({{site.url}}/indA1.html) |
 | R 2/1  |                       Task design, Think Aloud                       |       Blackboard Think Aloud        |                                                               |
 
 ### Week 4
@@ -74,7 +74,7 @@ _Spring break: no classes 3/5 and 3/7_
 |  Date  |        Topics         |               In-class activity                | Assigned |
 | :----: | :-------------------: | :--------------------------------------------: | :------: |
 | T 3/12 |          ---          |        Midterm <br> _(Prof. Reig away)_        |          |
-| R 3/14 | Project work in-class | Project work in-class <br> _(Prof. Reig away)_ |          |
+| R 3/14 | Project work in-class | Mid-semester survey, project work in-class <br> _(Prof. Reig away)_ |          |
 
 ### Week 9
 
