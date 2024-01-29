@@ -38,7 +38,7 @@ Start by coming up with an initial set of assumptions. This should not be a desi
 
 Once you've made note of your assumptions, develop a plan for your contextual inquiry. Contextual inquiry involves both observing and asking. As you _observe_ the user in their "natural habitat", you interrupt at appropriate times to _ask_ them questions about what they are doing, what they are thinking, and how they are problem-solving. You should come in with a set of questions that you intend to ask, but bear in mind that you may or may not end up asking them in order. 
 
-***Take detailed notes*** on what the people you interact with say and do. These can be handwritten or typed, but bear in mind that you will be asked to digitize them later. 
+***Take detailed notes*** on what the people you interact with say and do. These can be handwritten or typed, but bear in mind that you will be asked to digitize them later. You will not turn them in as part of this assignment, but you will use them later in the class.
 
 You may choose to record the interviews and take notes after the fact if that is easier for you. If you do this, by Massachusetts Law, you MUST obtain the consent of the person you are interviewing AND anyone else who might inadvertently be recorded; therefore, it is wise to only record if you are in a private location where it is easy to obtain the consent of all recorded parties. 
 
