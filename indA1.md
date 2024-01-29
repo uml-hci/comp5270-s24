@@ -47,7 +47,8 @@ Your final submission should take the form of a 2-3 page report of your contextu
 - What questions did you ask?
 - What did you learn from your interviews? (You do not need to thoroughly analyze your notes)
 - Revisit your "Step 0": Did your understanding of needs and goals change after the contextual inquiry? If so, how?
+
 The report should be written in prose (not bullets) and read like a short research paper. You do not have to answer each question in order, but you will be graded on whether and how effectively each one is addressed. You may want to include images, excerpts from your interview protocol and/or quotes from participants to help tell the story of your research. 
 
 ### Rubric
-You will be graded on whether the basic requirements of the assignments are met, how well your report addresses the questions above, and the overall clarity and organization of your work. A more detailed rubric will be posted here soon.
+You will receive a grade out of 100%. You will be graded on whether the basic requirements of the assignments are met, how well your report addresses the questions above, and the overall clarity and organization of your work. A more detailed rubric will be posted here soon.
