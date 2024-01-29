@@ -36,7 +36,13 @@ This assignment is part of Step 1. Therefore, you need to start with a Step 0.
 
 Start by coming up with an initial set of assumptions. This should not be a design, an interaction or anything resembling a proposed solution (you don't know what the "problem" is yet, or if there even is one!) -- it's simply a capture of the starting point for your information gathering process, and it shouldn't take more than a few minutes. What needs do you think people might have that isn't being met by the current state of the world? What goals do you think people are trying to or might try to achieve (not necessarily consciously) around productivity?
 
-Once you've made note of your assumptions, develop a plan for your contextual inquiry. Contextual inquiry involves both observing and asking. As you _observe_ the user in their "natural habitat", you interrupt at appropriate times to _ask_ them questions about what they are doing, what they are thinking, and how they are problem-solving. You should come in with a set of questions that you intend to ask, but bear in mind that you may or may not end up asking them in order. Plan to spend 30-60 minutes on the interview. 
+Once you've made note of your assumptions, develop a plan for your contextual inquiry. Contextual inquiry involves both observing and asking. As you _observe_ the user in their "natural habitat", you interrupt at appropriate times to _ask_ them questions about what they are doing, what they are thinking, and how they are problem-solving. You should come in with a set of questions that you intend to ask, but bear in mind that you may or may not end up asking them in order. 
+
+***Take detailed notes*** on what the people you interact with say and do. These can be handwritten or typed, but bear in mind that you will be asked to digitize them later. 
+
+You may choose to record the interviews and take notes after the fact if that is easier for you. If you do this, by Massachusetts Law, you MUST obtain the consent of the person you are interviewing AND anyone else who might inadvertently be recorded; therefore, it is wise to only record if you are in a private location where it is easy to obtain the consent of all recorded parties. 
+
+Plan to spend 30-60 minutes on each of the two interviews. 
 
 ### What you'll turn in
 Your final submission should take the form of a 2-3 page report of your contextual inquiry exercise. The report should address the following: 
@@ -45,7 +51,7 @@ Your final submission should take the form of a 2-3 page report of your contextu
 - How did you obtain informed consent?
 - Where and when did you observe/interview them? How long did the session last?
 - What questions did you ask?
-- What did you learn from your interviews? (You do not need to thoroughly analyze your notes)
+- What did you learn from your interviews? (You do not need to thoroughly analyze your notes using formal qualitative analysis methods -- just describe your initial impressions.)
 - Revisit your "Step 0": Did your understanding of needs and goals change after the contextual inquiry? If so, how?
 
 The report should be written in prose (not bullets) and read like a short research paper. You do not have to answer each question in order, but you will be graded on whether and how effectively each one is addressed. You may want to include images, excerpts from your interview protocol and/or quotes from participants to help tell the story of your research. 
