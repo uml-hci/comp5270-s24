@@ -40,7 +40,7 @@ Once you've made note of your assumptions, develop a plan for your contextual in
 
 ***Take detailed notes*** on what the people you interact with say and do. These can be handwritten or typed, but bear in mind that you will be asked to digitize them later. You will not turn them in as part of this assignment, but you will use them later in the class.
 
-You may choose to record the interviews and take notes after the fact if that is easier for you. If you do this, by Massachusetts Law, you MUST obtain the consent of the person you are interviewing AND anyone else who might inadvertently be recorded; therefore, it is wise to only record if you are in a private location where it is easy to obtain the consent of all recorded parties. 
+You may choose to record the interviews and take notes after the fact if that is easier for you. If you do this, by Massachusetts Law, you MUST obtain the consent of the person you are interviewing AND anyone else who might inadvertently be recorded. This is true whether you are meeting in-person or virtually. It is not enough to ask only the permission of the authority overseeing the meeting to record (to revisit the lab example: you must get consent from every lab member, not just the PI, to record). Therefore, it is wise to only record if you are in a private location where it is easy to obtain the consent of all recorded parties. 
 
 Plan to spend 30-60 minutes on each of the two interviews. 
 
