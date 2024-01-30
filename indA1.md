@@ -14,6 +14,8 @@ Important dates:
 
 This is the first in a series of three assignments in which you'll engage with different parts of the HCI and Design Thinking process. In this assignment, you'll use the method of contextual inquiry to develop an initial understanding of users and their tasks in a specific domain. In future assignments, you will build on your work from earlier assignments using the techniques you are learning about in class and from the readings. 
 
+This assignment will be done in **pairs**. You will not necessarily need to stick with the same partner for all three assignments and/or your final project, but you may choose to. 
+
 
 ### Scenario
 **You are a product manager for a startup focused on productivity tools. Observe and interview people as they schedule tasks for themselves, plan their day, schedule meetings with teammates, engage in deep work, make joint decisions with collaborators, and/or perform another task related to productivity.** 
@@ -27,6 +29,7 @@ This is not an exhaustive list -- you're welcome to use choose any setting you c
 
 A reminder: Regardless of what setting(s) you choose, make sure that your research is ethical and minimally disruptive. Obtain informed consent from all involved parties, and, if necessary, seek permission from an authority who oversees the setting (e.g., the PI if observing a lab meeting). 
 
+You may choose to split up the work however you see fit. You may want to each conduct one interview and then compare your findings, or you may both want to be present for both interviews with one person leading the inquiry and the other taking notes. 
 
 Recall this slide from class:
 
@@ -45,7 +48,7 @@ You may choose to record the interviews and take notes after the fact if that is
 Plan to spend 30-60 minutes on each of the two interviews. 
 
 ### What you'll turn in
-Your final submission should take the form of a 2-3 page report of your contextual inquiry exercise. The report should address the following: 
+Your final submission should take the form of a single 2-3 page report (one document for the both of you) of your contextual inquiry exercise. The report should address the following: 
 - What was your initial idea from "Step 0"? Identify the assumed need(s), state the goal(s) that you believe people have, and explain the intervention (i.e., innovation, design) that you propose to address the need(s) and help people meet the goal(s).
 - Who did you interview?
 - How did you obtain informed consent?
@@ -53,8 +56,11 @@ Your final submission should take the form of a 2-3 page report of your contextu
 - What questions did you ask?
 - What did you learn from your interviews? (You do not need to thoroughly analyze your notes using formal qualitative analysis methods -- just describe your initial impressions.)
 - Revisit your "Step 0": Did your understanding of needs and goals change after the contextual inquiry? If so, how?
+- Contributions: How did you divide the work? What was each partner's role in conducting the contextual inquiry? 
 
 The report should be written in prose (not bullets) and read like a short research paper. You do not have to answer each question in order, but you will be graded on whether and how effectively each one is addressed. You may want to include images, excerpts from your interview protocol and/or quotes from participants to help tell the story of your research. 
 
 ### Rubric
 You will receive a grade out of 100%. You will be graded on whether the basic requirements of the assignments are met, how well your report addresses the questions above, and the overall clarity and organization of your work. A more detailed rubric will be posted here soon.
+
+By default, partners will receive the same grade. In exceptional circumstances, I may make adjustments to individual grades based on an individual's contributions (or lack thereof). 
