@@ -17,7 +17,7 @@ A draft schedule for the course is here. This schedule is subject to change.
 |  Date  |                     Topics                     |   In-class activity    |                                           Assigned                                           |
 | :----: | :--------------------------------------------: | :--------------------: | :------------------------------------------------------------------------------------------: |
 | T 1/16 | Introduction to the class, introduction to HCI |     Introductions      | Read: _Design of Everyday Things_, Ch. 1-2 <br><br> [Student survey]({{site.url}}/survey.html) |
-| R 1/18 |    HCI and _The Design of Everyday Things__     | Hall of Fame and Shame |                                              --                                              |
+| R 1/18 |    HCI and _The Design of Everyday Things_     | Hall of Fame and Shame |                                              --                                              |
 
 ## Module 2: Characterizing what is
 
@@ -35,7 +35,7 @@ A draft schedule for the course is here. This schedule is subject to change.
 |  Date  |                                 Topics                                  |          In-class activity          |                                                                                                                                                    Assigned                                                                                                                                                    |
 | :----: | :---------------------------------------------------------------------: | :---------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | T 1/30 |                Interviews continued: contextual inquiry                 | Practice semi-structured interviews | [Assignment 1: Contextual Inquiry]({{site.url}}/indA1.html) <br><br> Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 8 (Affinity Diagramming) <br><br> Read: [What is an Affinity Diagram?](https://www.figma.com/resource-library/what-is-an-affinity-diagram/) |
-| R 2/1  | Organizing and analyzing data from needfinding Task design, Think Aloud |        Affinity diagramming         |                                                                                                    Read: [Task-Oriented Design](https://www.interaction-design.org/literature/topics/task-oriented-design)                                                                                                     |
+| R 2/1  | Organizing and analyzing data from needfinding |                  |                                                                                                    Read: [Task-Oriented Design](https://www.interaction-design.org/literature/topics/task-oriented-design)                                                                                                     |
 
 ### Week 4
 
