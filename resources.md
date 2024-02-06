@@ -17,4 +17,13 @@ Resources and useful links will be posted here at the beginning of the semester 
 - [InContext Design](https://www.incontextdesign.com/)
 - [Video: Contextual Design Short Course: Contextual Inquiry](https://www.youtube.com/watch?v=QeMTTFSwSJU)
 
+Software:
+
+- Free:
+- Free with university login:
+    - [Figma](https://www.figma.com/education/)
+    - 
+- Paid/paid options: 
+    - [Mural](https://www.mural.co/)
+
 I have a small collection of HCI books in my office, and am happy to lend them to students in the class on a first-come, first-served basis. Please stop by during office hours to check out a book. 
