@@ -20,7 +20,7 @@ This assignment will be done in **pairs**. You will not necessarily need to stic
 
 ### Scenario
 
-**You are a product manager for a startup focused on productivity tools. Observe and interview people as they schedule tasks for themselves, plan their day, schedule meetings with teammates, engage in deep work, make joint decisions with collaborators, and/or perform another task related to productivity.**
+**You are a product manager for a startup focused on productivity tools. Observe and interview people as they schedule tasks for themselves, plan their day, schedule meetings with teammates, engage in deep work, make joint decisions with collaborators, and/or perform another task related to work and/or productivity.**
 
 Conduct a contextual inquiry in which you interact with at least two people in one or more settings of your choice. You should select settings that are representative of the context of the prompt, accessible to you, and, ideally, interesting to you. Here are some examples of ways to position yourself in a relevant setting:
 
@@ -111,4 +111,4 @@ Overall, and despite omissions and/or weaknesses in other rubric categories, doe
 
 #### Remember:
 
-This assignment is intended to get you to practice the **skill of interviewing people for research**, with a focus on doing so in-context. You should prioritize the process of preparing for and conducting the interview over generating groundbreaking or novel insights. What you find may not be groundbreaking or particularly surprising, but you would not have found it if you hadn't asked. Your report won't be judged on the novelty of your response to the "What did you learn?" question above -- what's important is that you practice, reflect on, and clearly articulate your **process**.
+This assignment is intended to get you to practice the **skill of interviewing people for research**, with a focus on doing so in-context. You should prioritize the process of preparing for the interview, going into the context, and conducting the interview over generating groundbreaking or novel insights. What you find may not be groundbreaking or particularly surprising, but you would not have found it if you hadn't observed and asked. Your report won't be judged on the novelty of your response to the "What did you learn?" question above -- what's important is that you practice, reflect on, and clearly articulate your **process**.
