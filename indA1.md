@@ -20,7 +20,7 @@ This assignment will be done in **pairs**. You will not necessarily need to stic
 
 ### Scenario
 
-**You are a product manager for a startup focused on productivity tools. Observe and interview people as they schedule tasks for themselves, plan their day, schedule meetings with teammates, engage in deep work, make joint decisions with collaborators, and/or perform another task related to work and/or productivity.**
+**You are a product manager for a startup focused on workplace productivity tools. Obsserve and interview people as they do their jobs, schedule tasks for themselves, plan their days, schedule meetings with teammates, engage in deep work, make joint decisions with collaborators, and/or perform another task related to work and/or productivity.**
 
 Conduct a contextual inquiry in which you interact with at least two people in one or more settings of your choice. You should select settings that are representative of the context of the prompt, accessible to you, and, ideally, interesting to you. Here are some examples of ways to position yourself in a relevant setting:
 
@@ -28,7 +28,7 @@ Conduct a contextual inquiry in which you interact with at least two people in o
 - Attend a lab or project meeting (virtually or in-person). Gain an understanding of how teammates coordinate around shared projects, schedule meetings, and assign subtasks.
 - Shadow someone as they plan their tasks for the week, using either a physical planner or a digital tool. Gain an understanding of how they prioritize, how they categorize their tasks, and how they manage their time.
 
-This is not an exhaustive list -- you're welcome to use choose any setting you can think of that is related to productivity. The only exception: Do not observe someone doing work for _this_ class.
+This is not an exhaustive list -- you're welcome to use choose any setting you can think of that is related to work and/or productivity. The only exception: Do not observe someone doing work for _this_ class.
 
 A reminder: Regardless of what setting(s) you choose, make sure that your research is ethical and minimally disruptive. Obtain informed consent from all involved parties, and, if necessary, seek permission from an authority who oversees the setting (e.g., the PI if observing a lab meeting).
 
