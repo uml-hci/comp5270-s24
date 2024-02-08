@@ -6,7 +6,7 @@ nav_order: 2
 
 # Calendar
 
-A draft schedule for the course is here. This schedule is subject to change.
+A draft schedule for the course is here. This schedule is subject to change and will be updated throughout the semester as the course progresses.
 
 **NB:** The "Assigned" column refers to what is assigned _after_ the class indicated in the row. You are expected to do the readings after the class day on which they are assigned, before the next class. If a reading is assigned on January 16th, it means you should read it after class on January 16th, before the next class (January 18th). If an Assignment is assigned on January 30th, it means it will become available on or before January 30th, and you will need to check the assignment page for the deadline.
 
@@ -39,24 +39,24 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 ### Week 4
 
-| Date  |           Topics           |   In-class activity    |                                                     Assigned                                                     |
-| :---: | :------------------------: | :--------------------: | :--------------------------------------------------------------------------------------------------------------: |
-| T 2/6 |  Task design  | Practice Task Design |   Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 9 (Personas)   |
-| R 2/8 | Personas and user journeys |   Creating personas    | Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 12 (Storyboards) |
+| Date  |        Topics        |  In-class activity   |                                                   Assigned                                                   |
+| :---: | :------------------: | :------------------: | :----------------------------------------------------------------------------------------------------------: |
+| T 2/6 | Interview discussion |  Class time for A1   | Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 9 (Personas) |
+| T 2/8 |     Task design      | Practice task design | Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 9 (Personas) |
 
 ### Week 5
 
 |  Date  |                  Topics                  |  In-class activity   |                                                                                                Assigned                                                                                                |
 | :----: | :--------------------------------------: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| T 2/13 |              Storyboarding               | Creating storyboards | [Assignment 2: Storyboards & Lo-Fi Prototypes]({{site.url}}/indA2.html) <br><br> Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 13 (Paper Prototypes) |
-| R 2/15 | Lo-fi prototyping, Think Aloud revisited | Think-Aloud critique |                                   Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 14 (Testing With Paper Prototypes)                                   |
+| R 2/13 |        Personas and user journeys        |  Creating personas and user journeys |                                            Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 12 (Storyboards)                                            |
+| T 2/15 |    Storyboarding and lo-fi prototypes    | Creating storyboards | [Assignment 2: Storyboards & Lo-Fi Prototypes]({{site.url}}/indA2.html) <br><br> Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 13 (Paper Prototypes) |
 
 ### Week 6
 
 |  Date  | Topics |          In-class activity           |                          Assigned                          |
 | :----: | :----: | :----------------------------------: | :--------------------------------------------------------: |
 | T 2/20 |  ---   | _(No class - Monday class schedule)_ |                             --                             |
-| R 2/22 |  TBD   |         _(Prof. Reig away)_          | [Assignment 3: Usability Testing]({{site.url}}/indA3.html) |
+| R 2/22 |  TBD   |         _(Prof. Reig away)_          |  TBD: Think Aloud |
 
 ## Module 3: Realizing what could be
 
@@ -64,8 +64,8 @@ A draft schedule for the course is here. This schedule is subject to change.
 
 |  Date  |                                  Topics                                   | In-class activity |                                  Assigned                                  |
 | :----: | :-----------------------------------------------------------------------: | :---------------: | :------------------------------------------------------------------------: |
-| T 2/27 |                         TBD, project introduction                         |                   |           [Group project description]({{site.url}}/project.html)           |
-| R 2/29 | Neefinding revisited: Stakeholder maps, empathy maps <br> Project kickoff |  Team formation   | [Group deliverable 1: Proposal, Stakeholder Map]({{site.url}}/deliv1.html) |
+| T 2/27 |                         Think Aloud, Project introduction, Project kickoff                         |       Think Alou <br><br> Team formation            |           [Group project description]({{site.url}}/project.html)           |
+| R 2/29 | Neefinding revisited: Stakeholder maps, empathy maps <br> Project kickoff |  Proposal work session | [Group deliverable 1: Proposal, Stakeholder Map]({{site.url}}/deliv1.html) |
 
 _Spring break: no classes 3/5 and 3/7_
 
