@@ -20,7 +20,7 @@ This assignment will be done in **pairs**. You will not necessarily need to stic
 
 ### Scenario
 
-**You are a product manager for a startup focused on workplace productivity tools. Obsserve and interview people as they do their jobs, schedule tasks for themselves, plan their days, schedule meetings with teammates, engage in deep work, make joint decisions with collaborators, and/or perform another task related to work and/or productivity.**
+**You are a product manager for a startup focused on workplace productivity tools. Observe and interview people as they do their jobs, schedule tasks for themselves, plan their days, schedule meetings with teammates, engage in deep work, make joint decisions with collaborators, and/or perform another task related to work and/or productivity.**
 
 Conduct a contextual inquiry in which you interact with at least two people in one or more settings of your choice. You should select settings that are representative of the context of the prompt, accessible to you, and, ideally, interesting to you. Here are some examples of ways to position yourself in a relevant setting:
 

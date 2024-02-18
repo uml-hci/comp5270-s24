@@ -16,7 +16,7 @@ In this assignment, you will create **personas** and **storyboards** based on on
 
 ### Assignment details
 
-Create two personas and two storyboards based on **one** of the following options. All content should be based on one scenario; do not make persona 1 about option 1 and persona 2 about option 2 or personas about option 1 but storyboards about option 3, etc.
+Create two personas and two storyboards based on **one** of the following options. All content should be based on one option. Do not make persona 1 based on option 1 and persona 2 based on option 2; do not make personas based on option 1 and storyboards based on option 3, etc.
 
 Options: 
 
@@ -40,8 +40,8 @@ Remember that the readings from last week and lecture 5.2 contain detailed expla
 Your final submission should take the form of a single PDF (one document for the both of you). The document should include your **two personas and two storyboards** (1 page each = 4 pages in total), plus a **cover page** that addresses the following:
 
 1. Which of the three options above did you choose? Specify the design context and goals. 
-2. How do your two personas complelement each other and, together, ensure a broader coverage of the design space than one would alone?
-3. If you were to test your two storyboards with users, what would you hope to learn? What are the needs that you would be validating? 
+2. How do your two personas complement each other and, together, ensure a broader coverage of the design space than one would alone?
+3. If you were to test your two storyboards with stakeholders, what would you hope to learn? What are the needs that you would be validating? 
 4. Contributions: How did you divide the work? What was each partner's role in creating the personas and storyboards?
 
 You may answer these questions one-by-one or in paragraphs. Please use complete sentences either way. The most important thing is that we can understand and interpret all of your answers -- the presentation and formatting are much less important. 
@@ -54,7 +54,7 @@ You will receive a grade out of 100% based on a 20-point rubric. You will be gra
 
 ##### Assignment requirements (12pts):
 
-- Basic instructions: Does your document include both teammates' names, two personas, two storyboards, and a brief reflection? (1pt)
+- Basic instructions: Does your document include both teammates' names, two personas, two storyboards, and a cover page? (1pt)
 
 - Personas: Do the personas contain a visual, a name, and additional basic demographic details? Are there additional details such as motivations, habits, goals, and skills? Is the amount and nature of details appropriate for the context and topic you've chosen? Are the two personas sufficiently different from one another? (4pts)
 
