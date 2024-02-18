@@ -35,37 +35,37 @@ A draft schedule for the course is here. This schedule is subject to change and 
 |  Date  |                     Topics                     |          In-class activity          |                                                                                                                                                     Assigned                                                                                                                                                     |
 | :----: | :--------------------------------------------: | :---------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | T 1/30 |    Interviews continued: contextual inquiry    | Practice semi-structured interviews | [Assignment 1: Contextual Inquiry]({{site.url}}/indA1.html) <br><br> Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 8 (Affinity Diagramming) <br><br> Read: [What is an Affinity Diagram?](https://www.figma.com/resource-library/what-is-an-affinity-diagram/) |
-| R 2/1  | Organizing and analyzing data from needfinding |                                     |                                                                                                     Read: [Task-Oriented Design](https://www.interaction-design.org/literature/topics/task-oriented-design)                                                                                                      |
+| R 2/1  | Organizing and analyzing data from needfinding |                                     |                                                                                                                                                                                                                                                                                                                  |
 
 ### Week 4
 
 | Date  |        Topics        |  In-class activity   |                                                   Assigned                                                   |
 | :---: | :------------------: | :------------------: | :----------------------------------------------------------------------------------------------------------: |
-| T 2/6 | Interview discussion |  Class time for A1   | Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 9 (Personas) |
+| T 2/6 | Interview discussion |  Class time for A1   |   Read: [Task-Oriented Design](https://www.interaction-design.org/literature/topics/task-oriented-design)    |
 | T 2/8 |     Task design      | Practice task design | Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 9 (Personas) |
 
 ### Week 5
 
-|  Date  |                  Topics                  |  In-class activity   |                                                                                                Assigned                                                                                                |
-| :----: | :--------------------------------------: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| R 2/13 |        Personas and user journeys        |  Creating personas and user journeys |                                            Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 12 (Storyboards)                                            |
-| T 2/15 |    Storyboarding and lo-fi prototypes    | Creating storyboards | [Assignment 2: Storyboards & Lo-Fi Prototypes]({{site.url}}/indA2.html) <br><br> Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 13 (Paper Prototypes) |
+|  Date  |          Topics          |        In-class activity         |                                                                                            Assigned                                                                                            |
+| :----: | :----------------------: | :------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| R 2/13 |           ---            | _(No class - canceled for snow)_ |                                        Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 12 (Storyboards)                                        |
+| T 2/15 | Personas and storyboards |       Creating storyboards       | [Assignment 2: Personas & Storyboards]({{site.url}}/indA2.html) <br><br> Read: _Rapid Contextual Design: A How-To Guide to Key Techniques for User-Centered Design_, Ch. 13 (Paper Prototypes) |
 
 ### Week 6
 
-|  Date  | Topics |          In-class activity           |                          Assigned                          |
-| :----: | :----: | :----------------------------------: | :--------------------------------------------------------: |
-| T 2/20 |  ---   | _(No class - Monday class schedule)_ |                             --                             |
-| R 2/22 |  TBD   |         _(Prof. Reig away)_          |  TBD: Think Aloud |
+|  Date  | Topics |                                                 In-class activity                                                 | Assigned |
+| :----: | :----: | :---------------------------------------------------------------------------------------------------------------: | :------: |
+| T 2/20 |  ---   |                                       _(No class - Monday class schedule)_                                        |    --    |
+| R 2/22 |  ---   | _(No class - Prof. Reig away)_ <br><br> USe this time to work on Assignment 2, including the associated readings. |          |
 
 ## Module 3: Realizing what could be
 
 ### Week 7
 
-|  Date  |                                  Topics                                   | In-class activity |                                  Assigned                                  |
-| :----: | :-----------------------------------------------------------------------: | :---------------: | :------------------------------------------------------------------------: |
-| T 2/27 |                         Think Aloud, Project introduction, Project kickoff                         |       Think Alou <br><br> Team formation            |           [Group project description]({{site.url}}/project.html)           |
-| R 2/29 | Neefinding revisited: Stakeholder maps, empathy maps <br> Project kickoff |  Proposal work session | [Group deliverable 1: Proposal, Stakeholder Map]({{site.url}}/deliv1.html) |
+|  Date  |                        Topics                        |   In-class activity   |                                  Assigned                                  |
+| :----: | :--------------------------------------------------: | :-------------------: | :------------------------------------------------------------------------: |
+| T 2/27 |       Lo-fi prototyping, Project introduction        |    Team formation     |           [Group project description]({{site.url}}/project.html)           |
+| R 2/29 | Neefinding revisited: Stakeholder maps, empathy maps | Proposal work session | [Group deliverable 1: Proposal, Stakeholder Map]({{site.url}}/deliv1.html) |
 
 _Spring break: no classes 3/5 and 3/7_
 
@@ -73,15 +73,15 @@ _Spring break: no classes 3/5 and 3/7_
 
 |  Date  |        Topics         |                          In-class activity                          |                 Assigned                 |
 | :----: | :-------------------: | :-----------------------------------------------------------------: | :--------------------------------------: |
-| T 3/12 |          ---          |                  Midterm <br> _(Prof. Reig away)_                   |                                          |
+| T 3/12 |        Midterm        |                  Midterm <br> _(Prof. Reig away)_                   |                                          |
 | R 3/14 | Project work in-class | Mid-semester survey, project work in-class <br> _(Prof. Reig away)_ | Read: _Design of Everyday Things_, Ch. 6 |
 
 ### Week 9
 
-|  Date  |              Topics              | In-class activity |                                    Assigned                                    |
-| :----: | :------------------------------: | :---------------: | :----------------------------------------------------------------------------: |
-| T 3/19 | Hi-fi prototyping, visual design |                   | [Group deliverable 2: Lo-Fi Prototype & Think Aloud]({{site.url}}/deliv2.html) |
-| R 3/21 |               TBD                |        TBD        |                                                                                |
+|  Date  |             Topics             | In-class activity |                                    Assigned                                    |
+| :----: | :----------------------------: | :---------------: | :----------------------------------------------------------------------------: |
+| T 3/19 | Think Aloud, Hi-fi prototyping |                   | [Group deliverable 2: Lo-Fi Prototype & Think Aloud]({{site.url}}/deliv2.html) |
+| R 3/21 |         Visual design          |        TBD        |                                                                                |
 
 ## Module 4: Evaluation
 
@@ -112,7 +112,7 @@ _End of modules_
 
 |  Date  |    Topics     | In-class activity |                      Assigned                       |
 | :----: | :-----------: | :---------------: | :-------------------------------------------------: |
-| T 4/16 | Final project |   Work session    | [Assignment 4: Reflection]({{site.url}}/indA4.html) |
+| T 4/16 | Final project |   Work session    | [Assignment 3: Reflection]({{site.url}}/indA3.html) |
 | R 4/18 | Final project |   Work session    |                                                     |
 
 ### Week 14

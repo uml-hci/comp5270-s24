@@ -4,10 +4,10 @@ layout: default
 nav_order: 4
 parent: Assignments
 ---
-# Assignment 3: Usability Testing
+# Assignment 3: Reflection
 
 Check back soon!
 
 Important dates (_tentative_):
-- Assigned: Thursday, February 22nd
-- Due: Thursday, 29th
+- Assigned: Thursday, April 16th
+- Due: Friday, April 26th

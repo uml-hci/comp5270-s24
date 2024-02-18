@@ -16,7 +16,7 @@ Important dates:
 
 This is the first in a series of three assignments in which you'll engage with different parts of the HCI and Design Thinking process. In this assignment, you'll use the method of contextual inquiry to develop an initial understanding of users and their tasks in a specific domain. In future assignments, you will build on your work from earlier assignments using the techniques you are learning about in class and from the readings.
 
-This assignment will be done in **pairs**. You will not necessarily need to stick with the same partner for all three assignments and/or your final project, but you may choose to.
+This assignment will be done in **pairs**. You will not necessarily need to stick with the same partner for other assignments and/or your final project, but you may choose to.
 
 ### Scenario
 
