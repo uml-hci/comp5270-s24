@@ -65,7 +65,7 @@ A draft schedule for the course is here. This schedule is subject to change and 
 |  Date  |                        Topics                        |   In-class activity   |                                  Assigned                                  |
 | :----: | :--------------------------------------------------: | :-------------------: | :------------------------------------------------------------------------: |
 | T 2/27 |       Lo-fi prototyping, Project introduction        |    Team formation     |           [Group project description]({{site.url}}/project.html)           |
-| R 2/29 | Neefinding revisited: Stakeholder maps, empathy maps | Proposal work session | [Group deliverable 1: Proposal, Stakeholder Map]({{site.url}}/deliv1.html) |
+| R 2/29 | Neefinding revisited: Stakeholder maps, empathy maps | Proposal work session |  |
 
 _Spring break: no classes 3/5 and 3/7_
 
@@ -80,8 +80,8 @@ _Spring break: no classes 3/5 and 3/7_
 
 |  Date  |             Topics             | In-class activity |                                    Assigned                                    |
 | :----: | :----------------------------: | :---------------: | :----------------------------------------------------------------------------: |
-| T 3/19 | Think Aloud, Hi-fi prototyping |                   | [Group deliverable 2: Lo-Fi Prototype & Think Aloud]({{site.url}}/deliv2.html) |
-| R 3/21 |         Visual design          |        TBD        |                                                                                |
+| T 3/19 | Think Aloud, Hi-fi prototyping |  Project pitches  |  |
+| R 3/21 |         Visual design          |  Project pitches  |                                                                                |
 
 ## Module 4: Evaluation
 
@@ -96,8 +96,8 @@ _Spring break: no classes 3/5 and 3/7_
 
 | Date  |    Topics     | In-class activity |                               Assigned                                |
 | :---: | :-----------: | :---------------: | :-------------------------------------------------------------------: |
-| T 4/2 | User modeling |                   | [Group deliverable 3: Heuristic evaluation]({{site.url}}/deliv3.html) |
-| R 4/4 |      TBD      |                   |                                                                       |
+| T 4/2 | User modeling |                   |  |
+| R 4/4 |      Project updates      |       Project updates            |                                                                       |
 
 _End of modules_
 

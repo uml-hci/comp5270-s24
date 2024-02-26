@@ -32,7 +32,7 @@ Software:
 - [Miro](https://miro.com/) - three free boards, then paid
 - [Mural](https://www.mural.co/) - free and paid versions
 - [LucidChart](https://lucid.app/) - three free documents, then paid
-- [Canva] (https://www.canva.com/) - free and paid versions
+- [Canva](https://www.canva.com/) - free and paid versions
 - [Google Jamboard](https://jamboard.google.com/) - must be signed in to Google
 
 I have a small collection of HCI books in my office, and am happy to lend them to students in the class on a first-come, first-served basis. Please stop by during office hours to check out a book. 
