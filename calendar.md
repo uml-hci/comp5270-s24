@@ -78,42 +78,42 @@ _Spring break: no classes 3/5 and 3/7_
 
 ### Week 9
 
-|  Date  |    Topics     | In-class activity |                                                                                        Assigned                                                                                         |
-|:------:|:-------------:|:-----------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| T 3/19 |  Think Aloud  |  Project pitches  |                                                                                                                                                                                         |
-| R 3/21 | Visual design |  Project pitches  | Read: [Design Principles: Visual Perception And The Principles of Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/) |
+|  Date  |     Topics      | In-class activity |                                                                                        Assigned                                                                                         |
+|:------:|:---------------:|:-----------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| T 3/19 |   Think Aloud   |  Project pitches  |                                                                                                                                                                                         |
+| R 3/21 | Project pitches |  Project pitches  | Read: [Design Principles: Visual Perception And The Principles of Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/) |
 
 ## Module 4: Evaluation
 
 ### Week 10
 
-|  Date  |                 Topics                 |   In-class activity    | Assigned |
-|:------:|:--------------------------------------:|:----------------------:|:--------:|
-| T 3/26 | Visual design + Cognitive walkthroughs |                        |          |
-| R 3/28 |          Heuristic evaluation          | Peer feedback activity |          |
+|  Date  |                    Topics                     | In-class activity | Assigned |
+|:------:|:---------------------------------------------:|:-----------------:|:--------:|
+| T 3/26 |                 Visual design                 |                   |          |
+| R 3/28 | Cognitive walkthroughs + Heuristic evaluation |                   |          |
 
 ### Week 11
 
-| Date  |     Topics      | In-class activity | Assigned |
-|:-----:|:---------------:|:-----------------:|:--------:|
-| T 4/2 |  User modeling  |                   |          |
-| R 4/4 | Project updates |  Project updates  |          |
+| Date  |     Topics      |   In-class activity    | Assigned |
+|:-----:|:---------------:|:----------------------:|:--------:|
+| T 4/2 |  User modeling  | Peer feedback activity |          |
+| R 4/4 | Project updates |    Project updates     |          |
 
 _End of modules_
 
 ### Week 12
 
-|  Date  |           Topics            | In-class activity | Assigned |
-|:------:|:---------------------------:|:-----------------:|:--------:|
-| T 4/9  |      Inputs, controls       |                   |          |
-| R 4/11 | Intelligent user interfaces |   Work session    |          |
+|  Date  |           Topics            |     In-class activity      | Assigned |
+|:------:|:---------------------------:|:--------------------------:|:--------:|
+| T 4/9  | Guest lecture: Russ Perkins |                            |          |
+| R 4/11 |      Inputs, controls       | Work session if extra time |          |
 
 ### Week 13
 
-|  Date  |    Topics     |     In-class activity      |                      Assigned                       |
-|:------:|:-------------:|:--------------------------:|:---------------------------------------------------:|
-| T 4/16 | Guest lecture | Work session if extra time | [Assignment 3: Reflection]({{site.url}}/indA3.html) |
-| R 4/18 | Final project |        Work session        |                                                     |
+|  Date  |           Topics            |     In-class activity      |                      Assigned                       |
+|:------:|:---------------------------:|:--------------------------:|:---------------------------------------------------:|
+| T 4/16 | Intelligent user interfaces | Work session if extra time | [Assignment 3: Reflection]({{site.url}}/indA3.html) |
+| R 4/18 |        Final project        |        Work session        |                                                     |
 
 ### Week 14
 
