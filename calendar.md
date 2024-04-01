@@ -90,13 +90,13 @@ _Spring break: no classes 3/5 and 3/7_
 |  Date  |                    Topics                     | In-class activity | Assigned |
 |:------:|:---------------------------------------------:|:-----------------:|:--------:|
 | T 3/26 |                 Visual design                 |                   |          |
-| R 3/28 | Cognitive walkthroughs + Heuristic evaluation |                   |          |
+| R 3/28 | Visual design + Heuristic evaluation |                   |          |
 
 ### Week 11
 
 | Date  |     Topics      |   In-class activity    | Assigned |
 |:-----:|:---------------:|:----------------------:|:--------:|
-| T 4/2 |  User modeling  | Peer feedback activity |          |
+| T 4/2 |  Usability testing + accessibility  | Peer feedback activity |          |
 | R 4/4 | Project updates |    Project updates     |          |
 
 _End of modules_
