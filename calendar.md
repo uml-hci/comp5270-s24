@@ -106,7 +106,7 @@ _End of modules_
 |  Date  |           Topics            |     In-class activity      | Assigned |
 |:------:|:---------------------------:|:--------------------------:|:--------:|
 | T 4/9  | Guest lecture: Russ Perkins |                            |          |
-| R 4/11 |      Inputs, controls       | Work session if extra time |          |
+| R 4/11 |     Controls (and inputs)       | Lectern design, Work session if extra time |          |
 
 ### Week 13
 
