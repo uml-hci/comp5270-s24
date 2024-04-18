@@ -87,37 +87,37 @@ _Spring break: no classes 3/5 and 3/7_
 
 ### Week 10
 
-|  Date  |                    Topics                     | In-class activity | Assigned |
-|:------:|:---------------------------------------------:|:-----------------:|:--------:|
-| T 3/26 |                 Visual design                 |                   |          |
+|  Date  |                Topics                | In-class activity | Assigned |
+|:------:|:------------------------------------:|:-----------------:|:--------:|
+| T 3/26 |            Visual design             |                   |          |
 | R 3/28 | Visual design + Heuristic evaluation |                   |          |
 
 ### Week 11
 
-| Date  |     Topics      |   In-class activity    | Assigned |
-|:-----:|:---------------:|:----------------------:|:--------:|
-| T 4/2 |  Usability evaluation continued, user testing, accessibility  |  |          |
-| R 4/4 | Project updates |    Project updates     |          |
+| Date  |                           Topics                            | In-class activity | Assigned |
+|:-----:|:-----------------------------------------------------------:|:-----------------:|:--------:|
+| T 4/2 | Usability evaluation continued, user testing, accessibility |                   |          |
+| R 4/4 |                       Project updates                       |  Project updates  |          |
 
 _End of modules_
 
 ### Week 12
 
-|  Date  |           Topics            |     In-class activity      | Assigned |
-|:------:|:---------------------------:|:--------------------------:|:--------:|
-| T 4/9  | Guest lecture: Russ Perkins |                            |          |
-| R 4/11 |     Controls (and inputs)       | Lectern design, Work session if extra time |          |
+|  Date  |           Topics            |             In-class activity              | Assigned |
+|:------:|:---------------------------:|:------------------------------------------:|:--------:|
+| T 4/9  | Guest lecture: Russ Perkins |                                            |          |
+| R 4/11 |    Controls (and inputs)    | Lectern design, Work session if extra time |          |
 
 ### Week 13
 
 |  Date  |           Topics            |     In-class activity      |                      Assigned                       |
 |:------:|:---------------------------:|:--------------------------:|:---------------------------------------------------:|
-| T 4/16 | Intelligent user interfaces | Work session if extra time | [Assignment 3: Reflection]({{site.url}}/indA3.html) |
-| R 4/18 |        Final project        |        Work session        |                                                     |
+| T 4/16 | Intelligent user interfaces | Work session if extra time |                                                     |
+| R 4/18 |        Final project        |        Course evaluations, work session        | [Assignment 3: Reflection]({{site.url}}/indA3.html) |
 
 ### Week 14
 
 |  Date  |    Topics     |   In-class activity   |                            Assigned                             |
 |:------:|:-------------:|:---------------------:|:---------------------------------------------------------------:|
 | T 4/23 | Final project | Project presentations |                                                                 |
-| R 4/25 | Final project | Project presentations | Due tomorrow night: Project Final Deliverables, Teamwork Survey |
+| R 4/25 | Final project | Project presentations | Due tomorrow night: Project Final Deliverables, Teamwork Survey, Assignment 3 |
