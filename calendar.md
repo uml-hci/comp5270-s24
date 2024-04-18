@@ -96,7 +96,7 @@ _Spring break: no classes 3/5 and 3/7_
 
 | Date  |     Topics      |   In-class activity    | Assigned |
 |:-----:|:---------------:|:----------------------:|:--------:|
-| T 4/2 |  Usability evaluation continued, user testing, accessibility  | Peer feedback activity |          |
+| T 4/2 |  Usability evaluation continued, user testing, accessibility  |  |          |
 | R 4/4 | Project updates |    Project updates     |          |
 
 _End of modules_
