@@ -7,8 +7,8 @@ parent: Assignments
 # Assignment 3: Individual reflection: Short blog post
 
 Important dates:
-- Assigned: Thursday, April 18th
-- Due: Friday, April 26th
+- Assigned: Thursday, April 18
+- Due: Wednesday, May 1
 
 ### Overview 
 For this assignment, you’ll write a **short blog post on any topic related to the class**. You may choose to: 
