@@ -54,7 +54,7 @@ Overall, the arc of your project goes like this:
 The project will be evaluated primarily based upon (1) the degree to which the interface effectively takes into account the principles of HCI and findings from your formative research activities (interim deliverables) and (2) how well the interface conveys the design. Clear articulation of your thought process, both in writing and verbally, is a crucial aspect of designing for and engaging with end users and clients. Therefore, clarity of expression will also factor into the assessment of all written and presented project components. The breakdown of the grading for the final project is as follows:
 
 | Component            | Points |
-| :------------------- | :----- |
+|:---------------------|:-------|
 | Interim deliverables | 20     |
 | Final report         | 15     |
 | Final presentation   | 10     |
@@ -144,16 +144,52 @@ Your final report will take the form of a `12-16 page paper`. This page length g
 
 Your paper should describe your entire design process, starting with your design problem selection. It should then review related work, describe your needfinding and problem (re-)definition process, and present your tasks. Then, it should discuss your prototypes in detail: explain your low-fidelity prototype, report on the findings from your evaluation of it, describe how you refined your idea based on those findings, and present your final high-fidelity prototype. Use images and figures as needed.  You may reuse text and images from your interim deliverable reports in your final report as appropriate.
 
-Your report is worth 15 points and will be graded based on the following criteria: 
+Your report is worth 15 points and will be graded based on the below criteria. For categories worth more than 1 point, a breakdown of is provided (except for the "Presentation and clarity" category, which is judged holistically). Credit may be given/deducted as half and quarter points for rubric areas that are addressed only partially or superficially.
 
-- Does it meet basic formatting requirements (page limit, team names)? (1)
+- Does the paper meet basic formatting requirements (page limit, team names)? (1)
 - Motivation: Does your paper describe the problem or opportunity? Does it effectively explain how your design fits into or improves the current state of the world? Are relevant sources cited? (2)
+
+    | Score | Description                                                                                                                                                                     |
+    |-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | 2     | Motivation is thoroughly explained, with details about the context of the work, justification for why the work should be done, references to existing literature and/or systems |
+    | 1     | Motivation is stated, but with minimal details/elaboration                                                                                                                      |
+    
 - Empathize and define stages: Does your paper describe needfinding interviews with at least 2 stakeholders? Is the process described complete (addressing the protocol, context of the interviews, analysis, etc.)? Does it report on what was learned from the interviews, and do the insights detailed move the project forward? (2)
+
+    | Score | Description                                                                                                                                                                                                                                          |
+    |-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | 2     | Report of needfinding activities includes description of two stakeholder/participant meetings and includes details about the participants, protocol (time/place/questions asked), analysis (e.g., group discussion, affinity diagram), and takeaways |
+    | 1     | Paper mentions needfinding activities with 2 stakeholders, but report lacks significant details about protocol, analysis, or insights OR Only 1 person is interviewed, but report is thorough (see above)                                            |
+
+ 
 - Ideate and prototype stages: Does your paper describe the initial paper prototype and detail how it meets the user needs you discovered and the tasks you defined? (2)
+
+
+    | Score | Description                                                                                                                                                                                                               |
+    |-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | 2     | Lo-fi prototype is described with details about the design decisions that were made in creating it and why those decisions were made (and, if applicable, how subsequent mid-fi prototypes built on preliminary sketches) |
+    | 1     | Lo-fi prototype is mentioned, but lacks significant details about how it addressed insights from early-stage research activities                                                                                          |
+
+    
 - Internal and external testing: Does your paper report the details of your heuristic evaluation (protocol and findings)? Does it report on your usability testing with users (protocol and findings)? Does it describe how the insights gleaned from testing were incorporated into your final prototype? (3)
+
+    | Score | Description                                                                                                                                                                  |
+    |-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | 3     | Describes internal and external evaluation, for, both, provides details about methodology, problems or gaps identified, how the team incorporated the findings going forward |
+    | 2     | Describes internal evaluation and mentions external feedback, but user testing portion is lacking significant detail (e.g., "the participants found it easy to use")         |
+    | 1     | Describes internal evaluation but no external evaluation OR Describes external evaluation but no internal evaluation                                                         |
+
 - Final prototype: Does paper present your final prototype and describe the interactions it affords? (2)
+
+    | Score | Description                                                                                                                                                                                                                                                                                 |
+    |-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | 2     | Paper showcases the final prototype in a format appropriate to the project (e.g., screenshots for an app) in enough detail that the intent of the design can be understood, and body text describes prototyping methodology (e.g., what tools were used) and what interactions are afforded |
+    | 1     | Prototype is present, but either the presentation of the prototype itself or the accompanying text lacks sufficient detail                                                                                                                                                                  |
+
+
 - Presentation and clarity: Is the report well-organized and easy to follow? (2)
 - Holistic evaluation: Overall, and despite omissions and/or weaknesses in other rubric categories, does your report meet the objectives of the assignment? (1)
+
 
 ### Presentation
 #### In-class on Tuesday, April 23 and Thursday, April 25
